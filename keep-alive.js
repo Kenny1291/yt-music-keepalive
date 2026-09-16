@@ -1,3 +1,5 @@
+keepYTMusicTabAlive();
+
 function keepYTMusicTabAlive() {
     if ("_lact" in window) {
         window._lact = Date.now();
