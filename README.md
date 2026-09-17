@@ -18,4 +18,4 @@ OR
 
 ## License
 
-One Click Block Twitter is released under the [MIT License](https://opensource.org/licenses/MIT).
+YT Music KeepALive is released under the [GPL-3.0 license](https://opensource.org/license/gpl-3.0).
