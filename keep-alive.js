@@ -1,3 +1,5 @@
+//Modified by Akiko <https://github.com/Kenny1291> on 2026-09-17
+
 Object.defineProperties(document, {
     hidden: { value: false },
     visibilityState: { value: 'visible' }
