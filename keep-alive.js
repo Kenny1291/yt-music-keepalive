@@ -5,6 +5,8 @@ Object.defineProperties(document, {
     visibilityState: { value: 'visible' }
 });
 
+window.addEventListener("visibilitychange", e => e.stopImmediatePropagation(), true);
+
 keepYTMusicTabAlive();
 
 function keepYTMusicTabAlive() {
