@@ -1,3 +1,8 @@
+Object.defineProperties(document, {
+    hidden: { value: false },
+    visibilityState: { value: 'visible' }
+});
+
 keepYTMusicTabAlive();
 
 function keepYTMusicTabAlive() {
@@ -6,4 +11,4 @@ function keepYTMusicTabAlive() {
     }
 }
 
-setInterval(keepYTMusicTabAlive, 3_300_000);
+setInterval(keepYTMusicTabAlive, 30_000);
