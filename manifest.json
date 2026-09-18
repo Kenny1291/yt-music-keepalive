@@ -5,7 +5,13 @@
     "content_scripts": [
         {
             "matches": ["https://music.youtube.com/*"],
-            "js": ["keep-alive.js"]
+            "js": ["content.js"]
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": ["keep-alive.js"],
+            "matches": ["https://music.youtube.com/*"]
         }
     ]
 }

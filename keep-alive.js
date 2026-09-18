@@ -1,11 +1,11 @@
 //Modified by Akiko <https://github.com/Kenny1291> on 2026-09-17
 
-Object.defineProperties(document, {
-    hidden: { value: false },
-    visibilityState: { value: 'visible' }
-});
+// Object.defineProperties(document, {
+//     hidden: { value: false },
+//     visibilityState: { value: 'visible' }
+// });
 
-window.addEventListener("visibilitychange", e => e.stopImmediatePropagation(), true);
+// window.addEventListener("visibilitychange", e => e.stopImmediatePropagation(), true);
 
 keepYTMusicTabAlive();
 
@@ -15,4 +15,4 @@ function keepYTMusicTabAlive() {
     }
 }
 
-setInterval(keepYTMusicTabAlive, 30_000);
+setInterval(keepYTMusicTabAlive, 300_000);
