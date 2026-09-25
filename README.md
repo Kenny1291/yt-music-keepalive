@@ -7,7 +7,7 @@ A lightweight Chromium extension that prevents music.youtube.com to stop playing
 ## Installation
 
 - Download from Chrome Web Store (soon)
-- Download from Edge Add-ons (soon)
+- Download from [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/yt-music-keepalive/hpnccmadhpgjaijpihkpalllijdpmfco)
 
 OR
 
