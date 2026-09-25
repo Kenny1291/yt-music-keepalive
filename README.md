@@ -4,8 +4,8 @@ A lightweight Chromium extension that prevents music.youtube.com to stop playing
 
 ## Installation
 
-- Download from Chrome Web Store
-- Download from Edge Add-ons
+- Download from Chrome Web Store (soon)
+- Download from Edge Add-ons (soon)
 
 OR
 
