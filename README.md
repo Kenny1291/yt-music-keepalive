@@ -2,6 +2,8 @@
 
 A lightweight Chromium extension that prevents music.youtube.com to stop playing for inactivity.
 
+<img src="https://github.com/Kenny1291/yt-music-keepalive/blob/master/images/screenshoots/screenshot-1280x800.png"></img>
+
 ## Installation
 
 - Download from Chrome Web Store (soon)
